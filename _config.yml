@@ -16,7 +16,8 @@
 title: Example Docs
 description: A Jekyll Static Site for documentation
 baseurl: "/test-jekyll-github-pages/" # the subpath of your site, e.g. /blog
-theme: just-the-docs
+# theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 # url: "https://pmarsceill.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
